@@ -1,0 +1,86 @@
+*****************************************************
+*  PROGRAMMED BY : Suhyr Hasan
+*  STUDENT IDs   : 1022520
+*  CLASS         : CS1B - MW - 7:30pm - 9:50pm
+*  ASSIGNMENT #4 : Assessing Recursion Performance
+*****************************************************
+
+MENU OPTIONS
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+Enter an option (0 to exit): 1
+Enter a positive integer: 5
+
+Factorial of 5 = 120
+
+
+MENU OPTIONS
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+Enter an option (0 to exit): 2
+Enter the number of elements: 10
+
+Fibonacci Series:  0 1 1 2 3 5 8 13 21 34
+
+
+MENU OPTIONS
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+Enter an option (0 to exit): 3
+Enter a positive integer: 6
+
+Factorial : 
+It took the program 0.000001040 seconds to execute (Recursive)
+It took the program 0.000000376 seconds to execute (with iterations)
+
+
+MENU OPTIONS
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+Enter an option (0 to exit): 3
+Enter a positive integer: 14
+
+Factorial : 
+It took the program 0.000001415 seconds to execute (Recursive)
+It took the program 0.000001427 seconds to execute (with iterations)
+
+
+MENU OPTIONS
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+Enter an option (0 to exit): 4
+Enter the number of elements: 15
+
+Fibonacci Series: 
+It took the program 0.000043451 seconds to execute (Recursive)
+It took the program 0.000006462 seconds to execute (with iterations)
+
+
+MENU OPTIONS
+1 - Calculate and Display Factorial of a Number
+2 - Calculate and Display Fibonacci Series of a Number
+3 - Compare Performance for Factorial Implementations
+4 - Compare Performance for Fibonacci Series Implementations
+0 - EXIT
+Enter an option (0 to exit): 4
+Enter the number of elements: 30
+
+Fibonacci Series: 
+It took the program 0.054709041 seconds to execute (Recursive)
+It took the program 0.000004573 seconds to execute (with iterations)
+
